@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srev98
-- 👀 I’m interested in electrical engineering, data science and business management
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on projects based on sustainable development
-- 📫 How to reach me srev1998@yahoo.com
+- 👋 Hi, I’m Sre Vignesh :)
+- 👀 I’m interested in electronics, computers and everything inbetween !
+- 🌱 I’m currently learning Google Cloud Platform
+- 💞️ I’m looking to collaborate on projects based on computer hardware.
+- 📫 How to reach me srevigneshs@gmail.com
 
 <!---
 srev98/srev98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
