@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sre Vignesh :)
 - 👀 I’m interested in computers, electronics and everything in between !
-- 🌱 I’m currently learning Google Cloud Platform
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on projects based on computer hardware.
 - 📫 How to reach me srevigneshs@gmail.com
 
